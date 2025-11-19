@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tradutor</string>
+    <string name="recognized_label">Texto Reconhecido (Entrada):</string>
+    <string name="translated_label">Texto Traduzido (Saída):</string>
+    <string name="recognized_text_placeholder">Aguardando fala...</string>
+    <string name="translated_text_placeholder">A tradução aparecerá aqui.</string>
+    <string name="button_start">Iniciar Escuta</string>
+    <string name="button_stop">Parar Escuta</string>
+    <string name="button_exit">Encerrar Aplicativo</string>
+    <string name="translation_mode_label">Modo de Tradução (Bidirecional):</string>
+    <string name="sem_conexao">Sem conexão com a internet.</string>
+    <string name="error_network_needed">Erro: Necessário conectar a internet.</string>
+    <string name="recognition_unavailable">Reconhecimento indisponível</string>
+</resources>
